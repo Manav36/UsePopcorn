@@ -30,6 +30,6 @@ usePopcorn is a user-friendly web app that lets users:
 - 🧩 **Component-Based Architecture**: Modular and reusable components for clean structure
 
 ## 📸 Screenshot
-![usePopcorn](https://github.com/user-attachments/assets/95f84cfb-beea-407d-985e-a45f27ea83b1)
+![Screenshot 2025-05-05 215141](https://github.com/user-attachments/assets/21685ab7-5f96-468c-936a-f0ee4da10455)
 
 
